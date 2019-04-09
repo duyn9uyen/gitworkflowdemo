@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 1st commit
 # 2nd commit
 # 3rd commit
@@ -25,3 +26,6 @@ i - Insert
 =======
 # 1st commit
 >>>>>>> 5f8be74... A
+=======
+# Master commit
+>>>>>>> 2d0ac56... B
