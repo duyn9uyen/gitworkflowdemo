@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 1st commit
 # 2nd commit
 # 3rd commit
@@ -21,3 +22,6 @@ i - Insert
     :q! – Quit Vim without saving the data file
     :wq – Save the file and exit Vim
     And then Enter key
+=======
+# 1st commit
+>>>>>>> 5f8be74... A
